@@ -11,3 +11,22 @@
 7. Docker management of disk is relatively limited
 8. Container with the process of the user to stop the process of destruction, log container and other user data is not collected
    
+
+
+## Docker 简介
+
+[Docker 中文指南简介](http://blog.yangcvo.me/2016/07/12/Docker简介/)
+
+
+## docker 入门安装篇
+
+可参考：[所有系统安装docker文章](http://docker.widuu.com/installation/mac.html)
+
+
+## 其他信息
+
+blog地址：https://blog.yangcvo.me
+
+新浪微博：http://weibo.com/yangcvo
+
+
